@@ -1,0 +1,9 @@
+## Interface: 32000
+## Title: LiveDamage
+## Version: 004
+## Author: DROPZONEofSKYWALL
+## Notes: shows live character attack skills info
+#SavedVariablesPerCharacter: iCurrent,iCurrent2
+
+LiveDamage.lua
+LiveDamage.xml
